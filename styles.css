@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: 'Times New Roman', Times;
 }
 
 .navbar {
@@ -46,6 +46,22 @@ body {
   pointer-events: none;
   cursor: default;
 }
+
+body {
+  margin: 0;
+  font-family: 'Times New Roman', Times;
+}
+
+.content {
+  padding: 40px;
+}
+
+body {
+  border: 20px solid #00aaff;
+  padding: 20px;              
+  margin: 0;
+}
+
 
 .navbar-links a:hover:not(.disabled) {
   background-color: rgba(255, 255, 255, 0.411);
